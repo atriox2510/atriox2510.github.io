@@ -44,3 +44,11 @@ This work is published under [MIT][mit] License.
 [use-template]: https://github.com/cotes2020/chirpy-starter/generate
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+
+## ERRORS AND SOLUTIONS
+Add this at your **.bashrc** or **.zshrc** if you have a problems:
+```bash
+# Install Ruby Gems to ~/gems
+export GEM_HOME="$HOME/gems"
+export PATH="$HOME/gems/bin:$HOME/.local/share/gem/ruby/3.0.0/bin:$PATH"
+```
