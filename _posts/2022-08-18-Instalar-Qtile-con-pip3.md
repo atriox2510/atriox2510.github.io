@@ -15,28 +15,28 @@ Es simple, pequeño y extensible. Se pueden programar y configurar diseños, wid
 Es verdad que en la página oficial de [Qtile](http://docs.qtile.org/en/stable/manual/install/index.html), se muestra como instalar este gestor en diferentes distribuciones, sin embargo, en sistemás como **Kali** o **Parrot**, no se encuentra este paquete en el repositorio, apesar de estar basados en **Debian**.
 
 A demás, es poco clara forma de instalarlo con **pip3**, ya que esto se debe hacer como superusuario (root).
-```bash
+~~~bash
 sudo apt install python3 python3-pip
 sudo python3 -m pip install --upgrade pip
 sudo pip install xcffib qtile psutil
 sudo apt-get install python3-xcffib python3-cairocffi
 sudo apt install xserver-xorg xinit libpangocairo-1.0-0 python3-xcffib python3-cairocffi
-```
+~~~
 
 La documentación, muestra como instalar este gestor con pip desde los repositorios de **Python PyPI** y desde el código fuente en GitHub, sin embargo, no basta con esto ya que no se crea un `qtile.desktop` en `/usr/share/xsessions`. Esto lo podemos hace manual mente creando el archivo.
-```conf
+~~~conf
 [Desktop Entry]
 Name=Qtile
 Comment=Qtile Session
 Exec=qtile start
 Type=Application
 Keywords=wm;tiling
-```
+~~~
 O descargarlo desde el repositorio oficial de [Qtile en Github](https://github.com/qtile/qtile/blob/master/resources/qtile.desktop).
-```bash
+~~~bash
 cd /usr/share/xsessions
 sudo wget https://raw.githubusercontent.com/qtile/qtile/master/resources/qtile.desktop
-```
+~~~
 Reinciamos el sistema, seleccionamos como Gestor de ventanas **Qtile** y listo.
 
 ![](/assets/img/qtile/instaled.png)
