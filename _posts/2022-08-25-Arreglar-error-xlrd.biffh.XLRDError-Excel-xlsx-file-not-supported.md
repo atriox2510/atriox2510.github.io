@@ -4,7 +4,6 @@ author: Atriox Banished
 date: 2022-08-25
 categories: [Bugs, Errores, Configuración, Python, Linux]
 tags: [bugs, errores, configuración, python2, linux, pip2]
-pin: true
 ---
 
 ## ¿Qué es Windows Exploit Suggester?

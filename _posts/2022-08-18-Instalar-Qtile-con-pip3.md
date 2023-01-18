@@ -4,6 +4,7 @@ author: Atriox Banished
 date: 2022-08-18
 categories: [Instalación, Configuración, Python, Linux, Debian]
 tags: [instalación, configuración, python3, linux, debian, pip3, qtile]
+pin: true
 ---
 
 ## ¿Qué es Qtile?

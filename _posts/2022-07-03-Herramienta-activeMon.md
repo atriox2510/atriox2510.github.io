@@ -4,7 +4,6 @@ author: Atriox Banished
 date: 2022-07-03
 categories: [Scripting, Bash, Linux]
 tags: [scripting, bash, linux, ping, icmp]
-pin: true
 ---
 
 Esta es una herramienta programada en bash, la cual nos permite monitorear si un host está activo o no a través de paquetes echo ICMP.
