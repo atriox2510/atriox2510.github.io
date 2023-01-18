@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-Me llamo Marco Pat, mi alias es **"Atriox Banished"**, tomé mi nombre el líder de los Desterrados en el universo de Halo.
+Me llamo Marco Pat, mi alias es **"Atriox"**, tomé mi nombre el líder de los Desterrados en el universo de Halo.
 > *Atriox originalmente luchaba por el Covenant pero fue desterrado tras evitar su propia ejecución. Guerrero mortal y brillante líder militar. Inspiró a muchos a unirse a su exilio. Lideró a sus seguidores por una década hasta los eventos de Halo Infinite*
 
 # Proyectos
