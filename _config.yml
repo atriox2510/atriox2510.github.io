@@ -21,7 +21,7 @@ timezone: America/Merida
 
 title: Atriox                          # the main title
 
-tagline: Ingeniero de redes, Pentester, SysAdmin, entusiaste de los CTF   # it will display as the sub-title
+tagline: Ingeniero de redes, Pentester, SysAdmin, entusiasta de los CTF   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   En este blog se hablará sobre Ciberseguridad, Rdes, TIC, Forense, Sistemas Operativos, etc.
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/avatar.png
+avatar: /assets/img/icons/avatar.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
