@@ -1,5 +1,5 @@
 ---
-title: Windows Exploit Suggester (python2)
+title: Windows Exploit Suggester (python2) - Arreglo de errores
 author: Atriox Banished
 date: 2022-08-25
 categories: [Bugs, Errores, Configuración, Python, Linux]
