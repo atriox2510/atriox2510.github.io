@@ -1,5 +1,5 @@
 ---
-title: Windows Exploit Suggester (python2) - Arreglar error "xlrd.biffh.XLRDError Excel xlsx file; not supported"
+title: Windows Exploit Suggester (python2)
 author: Atriox Banished
 date: 2022-08-25
 categories: [Bugs, Errores, Configuración, Python, Linux]
